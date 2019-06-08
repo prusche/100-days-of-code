@@ -30,11 +30,3 @@
 **Today's Progress**: Changed displays, added items, columns, filters, inline views, etc into the Django admin page
 
 **Thoughts:** I wanted to add an inline view for the book on the authors admin page but I can't since I set the relationship as ManyToMany to account for multiple author books. Still thinking about what I want to change from the tutorial. I don't need author dates; I want subjects instead of genres, want LC numbers
-
-
-
-
-
-
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
