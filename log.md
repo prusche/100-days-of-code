@@ -1,30 +1,40 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 16: June 9, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Plans for Today** 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts**: 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 15: June 8, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Plans for Today** I plan to work on the index.html views and template and do some freeCodeCamp
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: 
 
-**Link(s) to work**
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+
+
+### Day 14: June 7, 2019
+
+**Plans for Today** Plan to continue with the library catalogue app from Mozilla's Django tutorial.
+
+**Today's Progress**: Changed displays, added items, columns, filters, inline views, etc into the Django admin page
+
+**Thoughts:** I wanted to add an inline view for the book on the authors admin page but I can't since I set the relationship as ManyToMany to account for multiple author books. Still thinking about what I want to change from the tutorial. I don't need author dates; I want subjects instead of genres, want LC numbers
+
+
+
+
+
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
