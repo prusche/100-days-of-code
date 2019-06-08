@@ -17,7 +17,7 @@
 
 **Today's Progress**: 
 
-**Thoughts**: 
+**Thoughts**: Adding to tutorial: how many books have I read, how many have I not read. Leaving out availability.
 
 **Link(s) to work**: 
 
